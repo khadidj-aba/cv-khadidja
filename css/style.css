@@ -87,9 +87,13 @@ body {
 
 /* === SIDEBAR GAUCHE === */
 .sidebar {
-  width: 30%;
+
+  width: 40%;
   padding-right: 30px;
   border-right: 1px solid #ccc;
+  background-color: #f5f5f5;
+  
+  
 }
 
 .sidebar h2 {
