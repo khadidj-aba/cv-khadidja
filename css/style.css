@@ -20,7 +20,7 @@ body {
 .cv-header {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: space-between;
   padding: 30px 40px;
   background-color: #1ab1b1; 
   color: white;
@@ -87,9 +87,13 @@ body {
 
 /* === SIDEBAR GAUCHE === */
 .sidebar {
-  width: 30%;
+
+  width: 40%;
   padding-right: 30px;
   border-right: 1px solid #ccc;
+  background-color: #f5f5f5;
+  
+  
 }
 
 .sidebar h2 {
